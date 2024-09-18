@@ -10,7 +10,8 @@ This project is a web application developed by TeamSix as part of a software arc
 ├── server.py                # Server-Side Code
 ├── fitness.py               # Fitness Module Code
 ├── README.md                # Project documentation
-└── requirements.txt         # Python dependencies```
+└── requirements.txt         # Python dependencies
+```
 
 ## Client
 Location: client.py
